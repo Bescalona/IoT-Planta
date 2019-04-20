@@ -66,9 +66,9 @@ AppAsset::register($this);
 
 				'<li role="presentation" class="divider"></li>',
 
-				['label' => 'Mediciones', 'url' => '/iotplanta/web/index.php/medicion'],
+				['label' => 'Mediciones', 'url' => '/iotplant/iotplanta/web/index.php/medicion'],
 
-				['label' => 'Consumo de Agua', 'url' => '/iotplanta/web/index.php/consumo-agua'],
+				['label' => 'Consumo de Agua', 'url' => '/iotplant/iotplanta/web/index.php/consumo-agua'],
 
 				'<li role="presentation" class="divider"></li>',
 
